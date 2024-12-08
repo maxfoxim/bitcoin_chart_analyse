@@ -2,6 +2,11 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+"""
+To Do:
+200 Tage Trend
+Mustererkennung
+"""
 
 bitcoinwerte=pd.read_csv("btcusd_1-min_data.csv")
 
